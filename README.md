@@ -6,6 +6,7 @@ Welcome to my Amazon QuickSight Data Analysis Project! This project is part of m
 In this project, I utilized Amazon QuickSight, a fast, cloud-powered business intelligence service, to build visualizations, perform ad hoc analysis, and derive business insights from data. The tutorial covers the following key steps:
 
 1. **Creating a Dataset**: Importing and preparing data for analysis.
+![image](https://github.com/user-attachments/assets/c8da6cd2-f52d-494f-ad27-a699848030e4)
 
 
 2. **Preparing the Data**: Cleaning and transforming data to ensure accuracy and relevance.
@@ -28,6 +29,7 @@ In this project, I utilized Amazon QuickSight, a fast, cloud-powered business in
 
 8. **Publishing as Dashboard**: Sharing the final analysis through an interactive dashboard.
 
+![image](https://github.com/user-attachments/assets/38946dfc-e378-4ec4-a03e-bacd5dffa86d)
 
 9. **Deleting AWS Resources**: Ensuring responsible use of cloud resources by cleaning up after the project.
 
